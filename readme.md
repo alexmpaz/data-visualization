@@ -4,13 +4,14 @@
 
 ## Dataset
 
-> The data consists of 113,937 loan listings between 2005 and 2014 on Prosper, a peer-to-peer lending marketplace. For each listing, there are 81 features are available.
+The data consists of 113,937 loan listings between 2005 and 2014 on Prosper, a peer-to-peer lending marketplace. For each listing, there are 81 features are available.
 
-> The dataset is curated by Udacity and was obtained directly from them as part of the class projects.
+The dataset is curated by Udacity and was obtained directly from them as part of the class projects.
 
 ## Summary of Findings
 
-> Initially, I was mostly interested in finding out how borrowing from friends influence on one's default rate. During exploration, I learned that only 26 listings had been funded by 5 friends or more, making it too small a sample. So instead, we focused our efforts on understanding the influence of variables on:
+Initially, I was mostly interested in finding out how borrowing from friends influence on one's default rate. During exploration, I learned that only 26 listings had been funded by 5 friends or more, making it too small a sample. So instead, we focused our efforts on understanding the influence of variables on:
+
 - Borrower's interest rate
 - default and chargedoff percentages
 
@@ -23,6 +24,6 @@ The main finding was the influence of a higher income on reducing both interest 
 
 ## Key Insights for Presentation
 
-> For the presentation, I focused on explanatory charts for the main finding, showing the conclusion was drawn from heatmaps.
+For the presentation, I focused on explanatory charts for the main finding, showing the conclusion was drawn from heatmaps.
 
 In short, the more money you currently make, the more likely it is to get a cheaper loan.
