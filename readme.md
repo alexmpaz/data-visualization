@@ -21,9 +21,17 @@ One of the usually key aspects regarding debt, the Debt to Income ratio, shows n
 
 The main finding was the influence of a higher income on reducing both interest rates and default proportions.
 
+Check out the [code for analysing the Prosper loans here](https://alexmpaz.github.io/data-visualization/exploration.html).
+
 
 ## Key Insights for Presentation
 
 For the presentation, I focused on explanatory charts for the main finding, showing the conclusion was drawn from heatmaps.
 
 In short, the more money you currently make, the more likely it is to get a cheaper loan.
+
+Check out the [HTML slides for Prosper loan analysis here](https://alexmpaz.github.io/data-visualization/slide_deck.slides.html).
+
+## Project Review
+
+This project was graded by a qualified assessor from Udacity and the [resulting report in PDF is here](https://alexmpaz.github.io/data-visualization/project%20review%20by%20Udacity.pdf).
